@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690873308 source:c:\users\user\desktop\sda-bfs\main.c
+	<stdio.h>
+	<stdlib.h>
+
